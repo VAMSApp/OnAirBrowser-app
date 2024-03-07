@@ -27,9 +27,9 @@ const schema = Yup.object({
 })
 
 const initialFormValues: IAddCompanyForm = {
-  companyId: 'c3d8e51d-f2e9-4918-a286-c3f2cd5ab141',
-  apiKey: 'd17ea885-aad5-429b-9297-fe2e6deca5d9',
-  vaId: '089affa0-16ae-45b6-af48-9e0908f6f6f4',
+  companyId: '',
+  apiKey: '',
+  vaId: '',
   vaApiKey: '',
 }
 
